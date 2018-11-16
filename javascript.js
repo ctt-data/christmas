@@ -19,4 +19,4 @@ $("#Read_more3").click(function() {
 
 	// Stop editing here
 	
-
+});
