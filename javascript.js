@@ -19,9 +19,7 @@ $("#Read_more3").click(function() {
     "The Christmas market around Kaiser Wilhelm Memorial Church at Breitscheidplatz welcomes its visitors with more than 100 beautifully decorated market stands and Christmas booths as well as 70 fairground rides. Between them, a tall Christmas tree and the church, there is much to see and entertain. Time: 10 am - 10 pm; Admission: free; Start: 1st December - 24th December";
   $("#answer_text3").text(message);
 });
-Start editing here
-
 
 	// Stop editing here
 	
-});https://github.com/ctt-data/christmas/blob/master/javascript.js
+
