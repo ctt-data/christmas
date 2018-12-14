@@ -73,7 +73,6 @@ $("#Italy").click(function() {
     "Nooo";
   $("#answer_text12").text(message);
 });
-
 	// Stop editing here
 	
 });
